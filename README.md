@@ -1,1 +1,1 @@
-# epam-test-pr
+# Test repository to explain Pull Requests
